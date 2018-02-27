@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HeadlineNews</string>
+    <string name="PressGo">Press Go!</string>
+    <string name="GoButton">GO</string>
+</resources>
